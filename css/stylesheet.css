@@ -1,0 +1,26 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #FCF7F8;
+}
+
+header {
+  text-align: center;
+}
+
+form{
+  width: 100px;
+  display: inline-block;
+}
+
+footer {
+  background-color: #866504;
+  text-align: center;
+}
+input{
+  padding: 0.5rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: blue;
+
+}

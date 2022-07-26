@@ -1,0 +1,60 @@
+
+
+h1{color: rgb(10, 10, 7);}
+
+input{
+    padding: 0.5rem;
+    font-size: 1 rem;
+    border-radius: 6px;
+    border: solid rgb(127, 109, 109);
+    justify-content: center;
+}
+
+    .name{
+        display: flex;
+        text-decoration-color: aqua 
+    }
+   
+    .label{
+        width: 100px;
+        display: inline-block;
+        padding: 8px;
+        margin: 5px;
+    
+      }
+      .label-hover{
+        color: red;
+      }
+      #submit{
+        width: 100px;
+        margin-left:  auto;
+        margin-right: auto;
+        text-align: center;
+      }
+
+      .form{
+        height: 50em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+      }
+
+      input{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+      }
+
+      textarea{
+        width: 1000px;
+        height: 100px;
+      }
+
+      
+
+
+
+
+
+   
+
+    
